@@ -55,5 +55,5 @@ dan mudah digunakan.
 
 ## 7. Pengembang
 Nama: Fauziyaatul Lailiyah
-Mata Kuliah: [Isi nama mata kuliah]
+Mata Kuliah: [CMS]
 Tahun: 2026
